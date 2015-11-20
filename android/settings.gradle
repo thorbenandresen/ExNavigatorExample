@@ -1,0 +1,3 @@
+rootProject.name = 'ExNavigatorExample'
+
+include ':app'

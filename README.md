@@ -1,6 +1,6 @@
 # ExNavigatorExample
 
-Basic Runnable Example of https://github.com/exponentjs/ex-navigator
+Basic runnable Example of https://github.com/exponentjs/ex-navigator
 
 ##Install
 

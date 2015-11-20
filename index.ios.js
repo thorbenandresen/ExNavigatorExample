@@ -6,7 +6,7 @@
 
 var React = require('react-native');
 //var Index = require('./app/Modal.ios');
-var Index = require('./app/main');
+var Index = require('./app/root');
 
 var {
   AppRegistry,
